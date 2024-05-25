@@ -1,0 +1,2 @@
+# Stage 1: At-home Assessment
+Building a data science model that explains how these factors impacted home prices over the last 20 years, Using the S&P Case-Schiller Home Price Index as a proxy for home prices.
